@@ -25,9 +25,8 @@ Website Interface ->
 - **CSS** – Responsive and glowing UI styling  
 - **JavaScript** – Sorting logic and DOM manipulation
 
-🚀 Getting Started
-wanna try....just tap and have a look ->
-https://lingaa-2005.github.io/Sorting-Visualizer/
+🚀 wanna try ?....just tap and have a look ->
+[**tapme**](https://lingaa-2005.github.io/Sorting-Visualizer/)
 
 here is some of the wonders of my work
 
